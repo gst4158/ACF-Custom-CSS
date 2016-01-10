@@ -4,4 +4,4 @@
 
 ### Makes the ACF Wordpress Plugin appear much nicer on the back-end
 
-![Preview:](http://i.imgur.com/F4Gq4In.jpg)
+![Preview:](http://i.imgur.com/fWHOwOQ.jpg)
